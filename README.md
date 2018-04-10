@@ -33,8 +33,8 @@ Your computer will be viewed as a new machine after the phresh install, which me
 
 </br>
 
-> ###### Resources  
-> [Make Your Mac Feel Like New Again With a Fresh Install of OSX](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
+> ###### Resources
+> [Make Your Mac Feel Like New Again With a Fresh Install of OSX](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
 > Information from [Field Guide—Gizmodo](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
 
 </br>
