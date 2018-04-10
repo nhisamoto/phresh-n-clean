@@ -55,7 +55,7 @@ You will be erasing your hard drive at this point. This is the point of no retur
   3. Select **Disk Utility**, select your **Hard Drive**.
   4. Select the **Erase** tab.
   5. Rename your Hard Drive, select the [format](https://support.apple.com/guide/disk-utility/erase-a-volume-dskutl14079/mac) of your Hard Drive, and select **Erase**.
-  5. Once the drive has been formatted, exit out of Disk Utility to return to the OSX Utilities screen.
+  6. Once the drive has been formatted, exit out of Disk Utility to return to the OSX Utilities screen.
 
 </br>
 
