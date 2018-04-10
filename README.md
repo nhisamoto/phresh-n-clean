@@ -61,9 +61,11 @@ You will be erasing your hard drive at this point. This is the point of no retur
 
 > ###### Resources  
 > [Make Your Mac Feel Like New Again With a Fresh Install of OSX](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
-> Information from [Field Guide—Gizmodo](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)
+> Information from [Field Guide—Gizmodo](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
 > [How to Clean Install MacOS high Sierra](http://osxdaily.com/2017/10/02/clean-install-macos-high-sierra/)  
-> Information from [OSXDaily](http://osxdaily.com/2017/10/02/clean-install-macos-high-sierra/) . 
+> Information from [OSXDaily](http://osxdaily.com/2017/10/02/clean-install-macos-high-sierra/)  
+> [Disk Utility Help—Erase a volume](https://support.apple.com/guide/disk-utility/erase-a-volume-dskutl14079/mac)
+> Information from [Apple Support](https://support.apple.com/guide/disk-utility/erase-a-volume-dskutl14079/mac)
 
 ## 
 
