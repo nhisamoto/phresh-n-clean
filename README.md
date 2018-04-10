@@ -5,7 +5,7 @@
    
    The [**Wipe + Reinstall**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#wipe--reinstall) section will walk you through installing a phresh copy of OSX.
    
-   The [**Applications**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#applications) section will tell you what how to use style guide.   
+   The [**Set Up**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#set-up) section will walk you through getting your phresh machine up and running as quickly as possible.   
    
    The [**Tasty Treats**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#tasty-treats) section will tell you what your forked files do.   
 
@@ -90,57 +90,117 @@ Now that you have a reformatted hard drive, you will be installing a phresh copy
 </br>
 </br>
 
+## Set Up
+The Set Up section will walk you through getting your phresh machine up and running as quickly as possible. We will set up the computer, install the necessary applications, and clean the download files with just a few lines of code.
+
+</br>
+
+### 1. Homebrew [:link:](http://brew.sh)
+Homebrew is a great tool for web developers. First, it makes removing Node very easy (otherwise you have to crawl through your file system and delete a bunch of files manually). Second, it greatly simplfies the installation of other useful packages like Git, Ruby, or the very useful wget utility.   
+
+</br>
+
+  1. Paste this into a Terminal prompt:    
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```   
+
+</br>
+
+> ###### Resources
+> [Homebrew Documentation](https://docs.brew.sh/)   
+> Description from [Treehouse blog](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+
+##
+
+### 2. Node + NPM [:link:](https://www.npmjs.com)
+NPM is a package manager for JavaScript and the world's largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.
+
+</br>
+
+  1. Enter `brew install node` into a Terminal prompt.
+  2. Enter `npm install npm@latest -g` into a Terminal prompt.
+  3. To check the install, enter `node -v; npm -v`. You should see two numbers print out which are the versions for node and npm respectively.   
+
+</br>
+
+> ###### Resources
+> [npmjs Documentation](https://docs.npmjs.com/)   
+> Description from [npmjs](https://www.npmjs.com)
+   
+##
+
+### 3. Gulp [:link:](https://gulpjs.com/)
+gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something.
+
+</br>
+
+  1. Enter `npm install -global gulp-cli` into a Terminal prompt.
+  2. To check the install, enter `gulp -v`. You should see a number print out which is the version for gulp.
+
+</br>
+
+> ###### Resources
+> [gulpjs Documentation](https://github.com/gulpjs/gulp)   
+> Description from [gulpjs](https://github.com/gulpjs/gulp)
+
+##
+
+### 4. Homebrew Cask [:link:](https://caskroom.github.io/)
+Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike.
+
+</br>
+
+  1. Enter `brew tap caskroom/cask` into a Terminal prompt.
+  2. Enter `brew install caskroom/cask/brew-cask` into a Terminal prompt.
+
+</br>
+
+> ###### Resources
+> [Homebrew Cask Documentation](https://caskroom.github.io/)   
+> Description from [Homebrew Cask](https://caskroom.github.io/)
+
+##
+
+### 5. Git + GitHub [:link:](https://github.com/)
+GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside millions of other developers. 
+
+</br>
+
+  1. [Set up Git and authenticate with GitHub](https://help.github.com/articles/set-up-git/)  
+
+</br>
+
+> ###### Resources
+> [Getting Started - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+> [Github Guides](https://guides.github.com/)  
+> Description from [Github](https://github.com/)
+
+##
+
+</br>
+</br>
+
 ## Applications
-   Description
-   Description
-   Description
+The Set Up section will walk you through getting your phresh machine up and running as quickly as possible. We will set up the computer, install the necessary applications, and clean the download files with just a few lines of code.
 
 </br>
 
-### 1. Back Up [:link:](Link)   
-Description
-Description
-Description
-  
-</br>
-  
-  1. Instruction [Resource Name](Link) 
+### 1. Homebrew [:link:](http://brew.sh)
+Homebrew is a great tool for web developers. First, it makes removing Node very easy (otherwise you have to crawl through your file system and delete a bunch of files manually). Second, it greatly simplfies the installation of other useful packages like Git, Ruby, or the very useful wget utility.   
 
 </br>
 
-> ###### Resources
-> [Resource Name](Link)  
-> Description from [Resource Name](Link)
-
-## 
-
-### 2. Unregister [:link:](Link)   
-Description
-Description
-Description
-  
-</br>
-  
-  1. Instruction [Resource Name](Link) 
+  1. Paste this into a Terminal prompt:    
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```   
 
 </br>
 
 > ###### Resources
-> [Resource Name](Link)  
-> Description from [Resource Name](Link)
-
-## 
-
-### 3. Unregister [:link:](Link)   
-Description
-Description
-Description
-  
-</br>
-  
-  1. Instruction [Resource Name](Link) 
-
-</br>
+> [Homebrew Documentation](https://docs.brew.sh/)   
+> Description from [Treehouse blog](http://blog.teamtreehouse.com/install-node-js-npm-mac)
 
 ##
 
