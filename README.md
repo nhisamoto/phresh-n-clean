@@ -3,11 +3,11 @@
    
    The [**Preparation**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#preparation) section will prevent you from losing important files, documents, and application keys upon reinstallation.
    
-   The [**Wipe + Reinstall**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#wipe--reinstall) section will help you get the style guide running locally on your computer.
+   The [**Wipe + Reinstall**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#wipe--reinstall) section will walk you through installing a phresh copy of OSX.
    
    The [**Applications**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#applications) section will tell you what how to use style guide.   
    
-   The [**Extensions**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#extensions) section will tell you what your forked files do.   
+   The [**Tasty Treats**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#tasty-treats) section will tell you what your forked files do.   
 
 </br>
 </br>
@@ -46,11 +46,11 @@ The Wipe + Reinstall section will walk you through installing a phresh copy of O
 </br>
 
 ### 1. Wipe
-You will be erasing your hard drive at this point. This is the point of no return. Take a deep breath and commence.
+You will be erasing your hard drive at this point. Once you have completed this step, your hard drive will be reformatted. This means this is the point of no return. Take a deep breath and commence.
   
 </br>
   
-  1. Make sure you have are plugged into a power source.  
+  1. Make sure your computer is plugged into a power source.  
   2. `Restart` your computer and hold down `⌘ + R` as soon as the reboot starts. If successful, you will be met by the OSX Utilities screen.  
   3. Select **Disk Utility**, select your **Hard Drive**.  
   4. Select the **Erase** tab.  
@@ -70,36 +70,20 @@ You will be erasing your hard drive at this point. This is the point of no retur
 ## 
 
 ### 2. Reinstall
-Description
-Description
-Description
+Now that you have a reformatted hard drive, you will be installing a phresh copy of the latest OSX on your hard drive (Unless you have the installation files for a different OS version on a flash drive). 
   
 </br>
   
-  1. Instruction [Resource Name](Link) 
-
-</br>
-
-> ###### Resources
-> [Resource Name](Link)  
-> Description from [Resource Name](Link)
-
-## 
-
-### 3. Unregister [:link:](Link)   
-Description
-Description
-Description
-  
-</br>
-  
-  1. Instruction [Resource Name](Link) 
+  1. Make sure your computer is plugged into a power source.  
+  2. From the OSX Utilities screen select **install macOS**.
+  3. Select the hard drive you just reformatted in step 3 of the previous section.
+  4. Select **Install** and select your preferences as prompted.
 
 </br>
 
 > ###### Resources
-> [Resource Name](Link)  
-> Description from [Resource Name](Link)
+> [How To Clean Install MacOS High Sierra](http://osxdaily.com/2017/10/02/clean-install-macos-high-sierra/)  
+> Information from [OSXDaily](http://osxdaily.com/2017/10/02/clean-install-macos-high-sierra/)
 
 ## 
 
@@ -163,7 +147,7 @@ Description
 </br>
 </br>
 
-## Extensions
+## Tasty Treats
    Description
    Description
    Description
