@@ -9,7 +9,7 @@
    
    The [**Application Installation**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#application-installation) section will walk you through installing your applications   
    
-   The [**Tasty Treats**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#tasty-treats) section will tell you what your forked files do.  
+   The [**Tasty Treats**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#tasty-treats) section will tell you some of our Liferay team members' top picks for applications and extensions.  
 
 </br>
 </br>
@@ -184,7 +184,7 @@ GitHub is a development platform inspired by the way you work. From open source 
 </br>
 
 ## Application Installation
-The Set Up section will walk you through installing your applications. Using Homebrew Cask, you can download and install the necessary applications, and clean the download files with just a few lines of code.
+The Application Installation section will walk you through installing your applications. Using Homebrew Cask, you can download and install the necessary applications, and clean the download files with just a few lines of code.
 
 </br>
 
@@ -196,29 +196,43 @@ Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to
   1. Decide what applications you would like to install with [Homebrew Cask Search](https://caskroom.github.io/search).    
   2. Enter `brew cask install [application]` into a Terminal prompt. This will install the selected application.
   3. Enter `brew cask install [application][space][application]` into a Terminal prompt to install multiple applications.
+  4. After installing all desired applications, enter `brew cask cleanup` into a Terminal prompt to delete all download files.
+  5. Enter `brew cask upgrade` into a Terminal prompt to upgrade all outdated casks.
   
-  </br>
+</br>
   
+To install all of the following applications with a single line of code:
+   1. Enter `brew cask install google-chrome firefox slack skype figma sketch craftmanager adobe-creative-cloud sublime-text hyper` into a Terminal prompt.
+
+</br>
+
 **Web Browsers**:
    1. [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIusnh086w2gIV2D2BCh1K6QSJEAAYASAAEgICbPD_BwE) `google-chrome`
    2. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) `firefox`
 
 </br>
 
-**Communication Applications**:
+**Communication Tools**:
    1. [Slack](https://slack.com/) `slack`
    2. [Skype](https://www.skype.com/en/) `skype`
 
 </br>
 
-**Design Applications**:
+**Design Tools**:
    1. [Figma](https://www.figma.com/) `figma`
    2. [Sketch](https://www.sketchapp.com/) `sketch`
    3. [Craft Manager](https://www.invisionapp.com/craft?utm_source=google&utm_medium=paid_search&utm_campaign=AW_EC_G_NAM_Search_SemiBranded_EM&utm_content=Craftmanager_EM&utm_term=craftmanager_e&_bk=craftmanager&_bt=205525527839&_bm=e&_bn=g&gclid=EAIaIQobChMI-OO-5NKw2gIVGL3sCh0c6wA-EAAYASAAEgIh3_D_BwE) `craftmanager`
+   4. [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) `adobe-creative-cloud`
    
 </br>
 
-**
+**Text Editors**:
+   1. [Sublime Text](https://www.sublimetext.com/) `sublime-text`
+   
+</br>
+
+**Terminal**:
+   1. [Hyper](https://hyper.is/) `hyper`
 
 </br>
 
@@ -232,59 +246,25 @@ Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to
 </br>
 
 ## Tasty Treats
-   Description
-   Description
-   Description
+The Tasty Treats section will tell you some of our Liferay team members' top picks for applications and extensions.  
 
 </br>
 
-### 1. Back Up [:link:](Link)   
-Description
-Description
-Description
+### 1. Naoki Hisamoto's Top Picks   
+Associate UX Designer
   
 </br>
   
-  1. Instruction [Resource Name](Link) 
-
-</br>
-
-> ###### Resources
-> [Resource Name](Link)  
-> Description from [Resource Name](Link)
-
-## 
-
-### 2. Unregister [:link:](Link)   
-Description
-Description
-Description
-  
+To install all of the following applications with a single line of code:
+   1. Enter `brew cask install notion caffeine karabiner-elements spotify` into a Terminal prompt.
+   
 </br>
   
-  1. Instruction [Resource Name](Link) 
+  1. [Notion](https://www.notion.so/) `notion`
+  2. [Caffeine](http://lightheadsw.com/caffeine/) `caffeine`
+  3. [Karabiner Elements](https://pqrs.org/osx/karabiner/) `karabiner-elements`
+  4. [Spotify](https://www.spotify.com/us/) `spotify`
 
 </br>
-
-> ###### Resources
-> [Resource Name](Link)  
-> Description from [Resource Name](Link)
-
-## 
-
-### 3. Unregister [:link:](Link)   
-Description
-Description
-Description
-  
-</br>
-  
-  1. Instruction [Resource Name](Link) 
-
-</br>
-
-> ###### Resources
-> [Resource Name](Link)  
-> Description from [Resource Name](Link)
 
 ## 
