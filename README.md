@@ -1,13 +1,13 @@
 # Phresh 'n Clean
    Wipe your hard drive clean and install your apps quickly.
    
-   The [**Preparation**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#preparation) section will prevent you from losing important files, documents, and application keys upon reinstallation.
+   The [**Preparation**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#preparation) section will prevent you from losing important files, documents, and registration keys upon reinstallation.
    
    The [**Wipe + Reinstall**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#wipe--reinstall) section will walk you through installing a phresh copy of OSX.
    
    The [**Set Up**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#set-up) section will walk you through getting your phresh machine up and running as quickly as possible.   
    
-   The [**Application Installation**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#application-installation) section will walk you through installing your applications   
+   The [**Application Installation**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#application-installation) section will walk you through installing your applications.   
    
    The [**Tasty Treats**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#tasty-treats) section will tell you some of our Liferay team members' top picks for applications and extensions.  
 
@@ -43,12 +43,12 @@ Your computer will be viewed as a new machine after the phresh install, which me
 </br>
 
 ## Wipe + Reinstall
-The Wipe + Reinstall section will walk you through installing a phresh copy of OSX. When you are ready, you'll erase your hard drive and install the latest version of OSX. Once you are at this point, there is no going back so make sure you thoroughly check you have backed up all necessary files, documents, pictures, videos and deauthorized any applications (as mentioned in the previous steps).
+The Wipe + Reinstall section will walk you through installing a phresh copy of OSX. When you are ready, you'll erase your hard drive and install the latest version of OSX. Once you are at this point, double-check that all necessary files, documents, pictures, and videos are backed up and all applications are deauthorized (as mentioned in the previous steps) because there is no going back after this step.
 
 </br>
 
 ### 1. Wipe
-You will be erasing your hard drive at this point. Once you have completed this step, your hard drive will be reformatted. This means this is the point of no return. Take a deep breath and commence.
+You will be erasing your hard drive at this point. Once you have completed this step, your hard drive will be reformatted. 
   
 </br>
   
@@ -72,7 +72,7 @@ You will be erasing your hard drive at this point. Once you have completed this 
 ## 
 
 ### 2. Reinstall
-Now that you have a reformatted hard drive, you will be installing a phresh copy of the latest OSX on your hard drive (Unless you have the installation files for a different OS version on a flash drive). 
+Now that you have a reformatted hard drive, you will be installing a phresh copy of the latest OSX onto your hard drive (Unless you have the installation files for a different OS version on a flash drive). 
   
 </br>
   
@@ -93,7 +93,7 @@ Now that you have a reformatted hard drive, you will be installing a phresh copy
 </br>
 
 ## Set Up
-The Set Up section will walk you through getting your phresh machine up and running as quickly as possible. We will set up the computer with Homebrew, Node, NPM, Gulp, Homebrew Cask, Git, and Github. This will prepare our computers for future processes such as installing applications quickly.
+The Set Up section will walk you through getting your phresh machine up and running as quickly as possible. We will set up the computer with Homebrew, Node, NPM, Gulp, Homebrew Cask, Git, and Github. This will prepare your computer for future processes such as installing applications quickly.
 
 </br>
 
