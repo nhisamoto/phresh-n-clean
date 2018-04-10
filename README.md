@@ -1,13 +1,13 @@
 # Phresh 'n Clean
    Wipe your hard drive clean and install your apps quickly.
    
-   The [**Preparation**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/readme.md#preparation) section will prevent you from losing important files, documents, and application keys upon reinstallation.
+   The [**Preparation**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#preparation) section will prevent you from losing important files, documents, and application keys upon reinstallation.
    
-   The [**Wipe + Reinstall**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/readme.md#wipe-+-reinstall) section will help you get the style guide running locally on your computer.
+   The [**Wipe + Reinstall**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#wipe--reinstall) section will help you get the style guide running locally on your computer.
    
-   The [**Applications**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/readme.md#applications) section will tell you what how to use style guide.   
+   The [**Applications**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#applications) section will tell you what how to use style guide.   
    
-   The [**Extensions**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/readme.md#extensions) section will tell you what your forked files do.   
+   The [**Extensions**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#extensions) section will tell you what your forked files do.   
 
 </br>
 </br>
