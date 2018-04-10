@@ -33,9 +33,9 @@ Your computer will be viewed as a new machine after the phresh install, which me
 
 </br>
 
-> ###### Resources
-> [Make Your Mac Feel Like New Again With a Fresh Install of OSX](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
-> Information from [Field Guide—Gizmodo](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)
+> ###### Resources  
+> [Make Your Mac Feel Like New Again With a Fresh Install of OSX](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
+> Information from [Field Guide—Gizmodo](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
 
 </br>
 </br>
@@ -50,20 +50,20 @@ You will be erasing your hard drive at this point. This is the point of no retur
   
 </br>
   
-  1. Make sure you have are plugged into a power source.
-  2. `Restart` your computer and hold down `⌘ + R` as soon as the reboot starts. If successful, you will be met by the OSX Utilities screen.
-  3. Select **Disk Utility**, select your **Hard Drive**.
-  4. Select the **Erase** tab.
-  5. Rename your Hard Drive, select the [format](https://support.apple.com/guide/disk-utility/erase-a-volume-dskutl14079/mac) of your Hard Drive, and select **Erase**.
-  6. Once the drive has been formatted, exit out of Disk Utility to return to the OSX Utilities screen.
+  1. Make sure you have are plugged into a power source.  
+  2. `Restart` your computer and hold down `⌘ + R` as soon as the reboot starts. If successful, you will be met by the OSX Utilities screen.  
+  3. Select **Disk Utility**, select your **Hard Drive**.  
+  4. Select the **Erase** tab.  
+  5. Rename your Hard Drive, select the [format](https://support.apple.com/guide/disk-utility/erase-a-volume-dskutl14079/mac) of your Hard Drive, and select **Erase**.  
+  6. Once the drive has been formatted, exit out of Disk Utility to return to the OSX Utilities screen.  
 
 </br>
 
-> ###### Resources
-> [Make Your Mac Feel Like New Again With a Fresh Install of OSX](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
-> Information from [Field Guide—Gizmodo](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)
+> ###### Resources  
+> [Make Your Mac Feel Like New Again With a Fresh Install of OSX](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
+> Information from [Field Guide—Gizmodo](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
 > [How to Clean Install MacOS high Sierra](http://osxdaily.com/2017/10/02/clean-install-macos-high-sierra/)  
-> Information from [OSXDaily](http://osxdaily.com/2017/10/02/clean-install-macos-high-sierra/)
+> Information from [OSXDaily](http://osxdaily.com/2017/10/02/clean-install-macos-high-sierra/) . 
 
 ## 
 
