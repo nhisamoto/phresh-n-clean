@@ -267,4 +267,33 @@ To install all of the following applications with a single line of code:
 
 </br>
 
+### 2. Abel Hancock's Top Picks   
+Associate UX Designer
+  
+</br>
+  
+To install all of the following applications with a single line of code:
+   1. Enter `brew cask install iterm2` into a Terminal prompt.
+   
+</br>
+  
+  1. [iterm<sup>2</sup>](https://www.iterm2.com/) `iterm2`
+
+</br>
+
+### 3. Rebecca Wu's Top Picks   
+Associate UX Designer
+  
+</br>
+  
+To install all of the following applications with a single line of code:
+   1. Enter `brew cask install flux evernote` into a Terminal prompt.
+   
+</br>
+  
+  1. [Flux](https://justgetflux.com/) `flux`
+  2. [Evernote](https://evernote.com/) `evernote`
+
+</br>
+
 ## 
