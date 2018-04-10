@@ -13,7 +13,7 @@
 </br>
 
 ## Preparation
-The Preparation section will prevent you from losing important files, documents, and application keys upon reinstalling OS X. The hard drive is completely erased during this process and taking the time to back up files and deauthorizing applications will ensure you have zero regrets after your phresh install.
+The Preparation section will prevent you from losing important files, documents, and application keys upon reinstalling OSX. The hard drive is completely erased during this process and taking the time to back up files and deauthorizing applications will ensure you have zero regrets after your phresh install.
 
 </br>
 
@@ -41,30 +41,33 @@ Your computer will be viewed as a new machine after the phresh install, which me
 </br>
 
 ## Wipe + Reinstall
-   Description
-   Description
-   Description
+The Wipe + Reinstall section will walk you through installing a phresh copy of OSX. When you are ready, you'll erase your hard drive and install the latest version of OSX. Once you are at this point, there is no going back so make sure you thoroughly check you have backed up all necessary files, documents, pictures, videos and deauthorized any applications (as mentioned in the previous steps).
 
 </br>
 
-### 1. Back Up [:link:](Link)   
-Description
-Description
-Description
+### 1. Wipe
+You will be erasing your hard drive at this point. This is the point of no return. Take a deep breath and commence.
   
 </br>
   
-  1. Instruction [Resource Name](Link) 
+  1. Make sure you have are plugged into a power source.
+  2. `Restart` your computer and hold down `⌘ + R` as soon as the reboot starts. If successful, you will be met by the OSX Utilities screen.
+  3. Select **Disk Utility**, select your **Hard Drive**.
+  4. Select the **Erase** tab.
+  5. Rename your Hard Drive, select the [format](https://support.apple.com/guide/disk-utility/erase-a-volume-dskutl14079/mac) of your Hard Drive, and select **Erase**.
+  5. Once the drive has been formatted, exit out of Disk Utility to return to the OSX Utilities screen.
 
 </br>
 
 > ###### Resources
-> [Resource Name](Link)  
-> Description from [Resource Name](Link)
+> [Make Your Mac Feel Like New Again With a Fresh Install of OSX](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)  
+> Information from [Field Guide—Gizmodo](https://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)
+> [How to Clean Install MacOS high Sierra](http://osxdaily.com/2017/10/02/clean-install-macos-high-sierra/)  
+> Information from [OSXDaily](http://osxdaily.com/2017/10/02/clean-install-macos-high-sierra/)
 
 ## 
 
-### 2. Unregister [:link:](Link)   
+### 2. Reinstall
 Description
 Description
 Description
