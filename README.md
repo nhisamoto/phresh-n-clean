@@ -7,7 +7,9 @@
    
    The [**Set Up**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#set-up) section will walk you through getting your phresh machine up and running as quickly as possible.   
    
-   The [**Tasty Treats**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#tasty-treats) section will tell you what your forked files do.   
+   The [**Application Installation**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#application-installation) section will walk you through installing your applications   
+   
+   The [**Tasty Treats**](https://github.com/naoki-evan-hisamoto/phresh-n-clean/blob/master/README.md#tasty-treats) section will tell you what your forked files do.  
 
 </br>
 </br>
@@ -91,7 +93,7 @@ Now that you have a reformatted hard drive, you will be installing a phresh copy
 </br>
 
 ## Set Up
-The Set Up section will walk you through getting your phresh machine up and running as quickly as possible. We will set up the computer, install the necessary applications, and clean the download files with just a few lines of code.
+The Set Up section will walk you through getting your phresh machine up and running as quickly as possible. We will set up the computer with Homebrew, Node, NPM, Gulp, Homebrew Cask, Git, and Github. This will prepare our computers for future processes such as installing applications quickly.
 
 </br>
 
@@ -181,26 +183,48 @@ GitHub is a development platform inspired by the way you work. From open source 
 </br>
 </br>
 
-## Applications
-The Set Up section will walk you through getting your phresh machine up and running as quickly as possible. We will set up the computer, install the necessary applications, and clean the download files with just a few lines of code.
+## Application Installation
+The Set Up section will walk you through installing your applications. Using Homebrew Cask, you can download and install the necessary applications, and clean the download files with just a few lines of code.
 
 </br>
 
-### 1. Homebrew [:link:](http://brew.sh)
-Homebrew is a great tool for web developers. First, it makes removing Node very easy (otherwise you have to crawl through your file system and delete a bunch of files manually). Second, it greatly simplfies the installation of other useful packages like Git, Ruby, or the very useful wget utility.   
+### 1. Homebrew Cask [:link:](https://caskroom.github.io/)
+Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike. 
 
 </br>
 
-  1. Paste this into a Terminal prompt:    
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```   
+  1. Decide what applications you would like to install with [Homebrew Cask Search](https://caskroom.github.io/search).    
+  2. Enter `brew cask install [application]` into a Terminal prompt. This will install the selected application.
+  3. Enter `brew cask install [application][space][application]` into a Terminal prompt to install multiple applications.
+  
+  </br>
+  
+**Web Browsers**:
+   1. [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIusnh086w2gIV2D2BCh1K6QSJEAAYASAAEgICbPD_BwE) `google-chrome`
+   2. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) `firefox`
+
+</br>
+
+**Communication Applications**:
+   1. [Slack](https://slack.com/) `slack`
+   2. [Skype](https://www.skype.com/en/) `skype`
+
+</br>
+
+**Design Applications**:
+   1. [Figma](https://www.figma.com/) `figma`
+   2. [Sketch](https://www.sketchapp.com/) `sketch`
+   3. [Craft Manager](https://www.invisionapp.com/craft?utm_source=google&utm_medium=paid_search&utm_campaign=AW_EC_G_NAM_Search_SemiBranded_EM&utm_content=Craftmanager_EM&utm_term=craftmanager_e&_bk=craftmanager&_bt=205525527839&_bm=e&_bn=g&gclid=EAIaIQobChMI-OO-5NKw2gIVGL3sCh0c6wA-EAAYASAAEgIh3_D_BwE) `craftmanager`
+   
+</br>
+
+**
 
 </br>
 
 > ###### Resources
-> [Homebrew Documentation](https://docs.brew.sh/)   
-> Description from [Treehouse blog](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+> [Homebrew Cask Documentation](https://github.com/caskroom/homebrew-cask/blob/master/USAGE.md)   
+> Description from [Homebrew Cask](https://caskroom.github.io/)
 
 ##
 
