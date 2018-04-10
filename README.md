@@ -278,6 +278,7 @@ To install all of the following applications with a single line of code:
 </br>
   
   1. [iterm<sup>2</sup>](https://www.iterm2.com/) `iterm2`
+  2. [Color Oracle](http://colororacle.org/) `color-oracle`
 
 </br>
 
