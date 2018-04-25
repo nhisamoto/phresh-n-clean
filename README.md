@@ -208,11 +208,20 @@ Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to
 
 </br>
 
+#### Application 
+
   1. Decide what applications you would like to install with [Homebrew Cask Search](https://caskroom.github.io/search).    
   2. Enter `brew cask install [application]` into a Terminal prompt. This will install the selected application.
   3. Enter `brew cask install [application][space][application]` into a Terminal prompt to install multiple applications.
   4. After installing all desired applications, enter `brew cask cleanup` into a Terminal prompt to delete all download files.
   5. Enter `brew cask upgrade` into a Terminal prompt to upgrade all outdated casks.
+
+</br>
+
+#### Fonts 
+
+  1. Decide what fonts you would like to install with this directory
+  2. Enter `brew cask install font-[font-name]` into a Terminal prompt
   
 </br>
   
