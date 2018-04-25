@@ -164,7 +164,22 @@ Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to
 
 ##
 
-### 5. Git + GitHub [:link:](https://github.com/)
+### 5. Caskroom-fonts [:link:](https://github.com/caskroom/homebrew-fonts)
+Caskroom-fonts is a Homebrew Tap which allows you to use the same friendly Homebrew-style CLI workflow for the administration of binary font files on your Mac.
+
+</br>
+
+  1. Enter `brew tap caskroom/fonts` into a Terminal prompt.
+
+</br>
+
+> ###### Resources
+> [Caskroom Fonts Documentation](https://github.com/caskroom/homebrew-fonts)   
+> Description from [Caskroom Fonts](https://github.com/caskroom/homebrew-fonts)
+
+##
+
+### 6. Git + GitHub [:link:](https://github.com/)
 GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside millions of other developers. 
 
 </br>
