@@ -217,16 +217,17 @@ Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to
   5. Enter `brew cask upgrade` into a Terminal prompt to upgrade all outdated casks.
 
 </br>
+  
+To install all of the following applications with a single line of code:
+   1. Enter `brew cask install google-chrome firefox slack skype figma sketch craftmanager adobe-creative-cloud sublime-text hyper` into a Terminal prompt.
+
+</br>
 
 #### Fonts 
 
   1. Decide what fonts you would like to install with this directory
   2. Enter `brew cask install font-[font-name]` into a Terminal prompt
-  
-</br>
-  
-To install all of the following applications with a single line of code:
-   1. Enter `brew cask install google-chrome firefox slack skype figma sketch craftmanager adobe-creative-cloud sublime-text hyper` into a Terminal prompt.
+  3. To install Sourrce Sans Pro, enter `brew cask install font-source-sans-pro` into a Terminal prompt.
 
 </br>
 
