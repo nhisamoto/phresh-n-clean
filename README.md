@@ -154,7 +154,6 @@ Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to
 </br>
 
   1. Enter `brew tap caskroom/cask` into a Terminal prompt.
-  2. Enter `brew install caskroom/cask/brew-cask` into a Terminal prompt.
 
 </br>
 
