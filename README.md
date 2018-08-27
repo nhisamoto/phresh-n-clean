@@ -252,11 +252,13 @@ To install all of the following applications with a single line of code:
 
 **Text Editors**:
    1. [Sublime Text](https://www.sublimetext.com/) `sublime-text`
+   2. [Visual Studio Code](https://code.visualstudio.com/) `visual-studio-code`
    
 </br>
 
 **Terminal**:
    1. [Hyper](https://hyper.is/) `hyper`
+   2. [iterm2](https://www.iterm2.com/) `iterm2`
 
 </br>
 
