@@ -209,7 +209,7 @@ Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to
 
 #### Application 
 
-  1. Decide what applications you would like to install with [Homebrew Cask Search](https://caskroom.github.io/search).    
+  1. Decide what applications you would like to install by entereing `brew search [application-name]` into a Terminal prompt.    
   2. Enter `brew cask install [application]` into a Terminal prompt. This will install the selected application.
   3. Enter `brew cask install [application][space][application]` into a Terminal prompt to install multiple applications.
   4. After installing all desired applications, enter `brew cask cleanup` into a Terminal prompt to delete all download files.
