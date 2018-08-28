@@ -237,13 +237,14 @@ To install all of the following applications with a single line of code:
 </br>
 
 **File Management Tools**:
-   1. [Google Drive File Stream](https://www.google.com/drive/download/)`google-drive-file-stream`
+   1. [Google Drive File Stream](https://www.google.com/drive/download/) `google-drive-file-stream`
 
 </br>
 
 **Communication Tools**:
    1. [Slack](https://slack.com/) `slack`
    2. [Skype](https://www.skype.com/en/) `skype`
+   3. [Google Chat](https://gsuite.google.com/products/chat/) `google-chat`
 
 </br>
 
