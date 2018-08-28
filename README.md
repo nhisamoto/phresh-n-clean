@@ -218,7 +218,7 @@ Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to
 </br>
   
 To install all of the following applications with a single line of code:
-   1. Enter `brew cask install google-chrome firefox slack skype figma sketch craftmanager adobe-creative-cloud sublime-text hyper` into a Terminal prompt.
+   1. Enter `brew cask install google-chrome firefox slack skype figma sketch google-drive-file-stream adobe-creative-cloud sublime-text hyper` into a Terminal prompt.
 
 </br>
 
@@ -236,6 +236,11 @@ To install all of the following applications with a single line of code:
 
 </br>
 
+**File Management Tools**:
+   1. [Google Drive File Stream](https://www.google.com/drive/download/)`google-drive-file-stream`
+
+</br>
+
 **Communication Tools**:
    1. [Slack](https://slack.com/) `slack`
    2. [Skype](https://www.skype.com/en/) `skype`
@@ -245,8 +250,7 @@ To install all of the following applications with a single line of code:
 **Design Tools**:
    1. [Figma](https://www.figma.com/) `figma`
    2. [Sketch](https://www.sketchapp.com/) `sketch`
-   3. [Craft Manager](https://www.invisionapp.com/craft?utm_source=google&utm_medium=paid_search&utm_campaign=AW_EC_G_NAM_Search_SemiBranded_EM&utm_content=Craftmanager_EM&utm_term=craftmanager_e&_bk=craftmanager&_bt=205525527839&_bm=e&_bn=g&gclid=EAIaIQobChMI-OO-5NKw2gIVGL3sCh0c6wA-EAAYASAAEgIh3_D_BwE) `craftmanager`
-   4. [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) `adobe-creative-cloud`
+   3. [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) `adobe-creative-cloud`
    
 </br>
 
